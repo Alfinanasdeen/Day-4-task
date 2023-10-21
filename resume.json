@@ -1,0 +1,46 @@
+let myResume={
+    "basics": {
+      "name": "ALFINA M",
+      "email": "alfinanasdeen@gamil.com",
+      "phone": 9629631482,
+      "degree": "B.E",
+      "location": {
+        "address": "12/5D, North street, kanyakumari",
+        "postalCode": 600030,
+        "town": "kanyakumari",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "website": "https://www.linkedin.com/in/alfina7/",
+          "github":"https://github.com/alfinanasdeen"
+        }
+      ]
+    },
+   
+    "education": [
+      {
+        "institution": "Rohini college of engineering and technology",
+        "department": "civil Engineering",
+        "studyType": "fulltime",
+        "batch start year": 2020,
+        "batch end year": 2024,
+        "gpa": 8.78,
+      }
+    ],
+    "skills": [
+      {
+        "name": "python,javascript",
+        "level": "beginer",
+       
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish,Malayalam",
+      }
+    ],
+   
+  }
+  console.log(myResume);
